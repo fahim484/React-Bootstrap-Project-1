@@ -82,4 +82,63 @@ ul li {
     margin-right: 30px !important;
 }
 
-/*  */
+/* Filter Component CSS Start */
+
+.filter-search-label {
+}
+
+.filter-search-section-title{
+ line-height: 36px;
+ padding-top: 70px;
+ padding-bottom: 40px;
+}
+
+.vertical-line{
+  width: 1px;
+  height: 40px;
+  background-color: #EDE8E9;
+}
+
+.filter-search-label{
+  color: #9A9EA7;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.filter-search-select{
+  width: 180px !important;
+  height: 40px !important;
+  /* background-color: #F5F6F7 !important; */
+  border: none !important;
+  line-height: 24px !important;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.search-button{
+  width: 120px;
+  height: 44px;
+  background-color: #7963F0 !important;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 18px;
+}
+
+.filter-search-box{
+  width: 100% !important;
+  height: 100%;
+  max-width: 1200px !important;
+  padding: 18px !important;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* Filter Component CSS End */
