@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  color: #0d0a19 !important;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: none;
+}
+
+.bi-person-fill {
+  background-color: #f5f6f7;
+  color: #9a9ea7;
+  border-radius: 10px;
+  padding: 7px;
+}
+
+.navbar-btn span {
+  color: #9a9ea7 !important;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  margin-left: 9px;
+  text-decoration: none;
+}
+
+.brand-color {
+  color: #9a9ea7;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.hero-area h1 {
+  color: #0d0a19;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  margin-bottom: 50px;
+}
+
+.hero-btn button {
+  font-width: 600;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 8px 20px 8px 20px !important;
+}
+
+.test-drive {
+  background-color: #7963f0 !important;
+  color: white !important;
+}
+
+.hero-img {
+  padding-top: 90px;
+}
+
+.carousel-control-prev-icon {
+    color: #F5F6F7 !important;
+    fontsize: 30px !important;
+    line-height: 30px !important;
+    width: 50px !important;
+    height: 50px !important;
+    background-color: #9A9EA7 !important;
+    border-radius: 10px !important;
+    padding: 7px !important;
+    margin-right: 30px !important;
+}
+
+.carousel-control-next-icon{
+    color: #F5F6F7 !important;
+    fontsize: 30px !important;
+    line-height: 30px !important;
+    width: 50px !important;
+    height: 50px !important;
+    background-color: #9A9EA7 !important;
+    border-radius: 10px !important;
+    padding: 7px !important;
+    margin-right: 30px !important;
+}
+
+/*  */
