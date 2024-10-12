@@ -8,6 +8,7 @@ import { FilterAndSearch } from "./components/Filter.jsx";
 import { Trending } from "./components/Trending.jsx";
 import { BestSelling } from "./components/BestSelling.jsx";
 import { Reviews } from "./components/Reviews.jsx";
+import { FindVehicles } from "./components/FindVehicles.jsx";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Trending />
       <BestSelling />
       <Reviews />
+      <FindVehicles />
     </>
   );
 }
