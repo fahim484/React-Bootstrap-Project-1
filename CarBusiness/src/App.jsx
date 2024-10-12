@@ -5,6 +5,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 import Navbar from "./components/shared/Navbar.jsx";
 import Hero from "./components/Hero.jsx";
 import { FilterAndSearch } from "./components/Filter.jsx";
+import { Trending } from "./components/Trending.jsx";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <Hero />
       <FilterAndSearch />
+      <Trending />
     </>
   );
 }
