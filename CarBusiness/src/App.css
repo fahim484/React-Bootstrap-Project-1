@@ -203,3 +203,27 @@ ul li {
   padding: 9px 17px;
 }
 /* Trending Component CSS End */
+
+/* Best Selling Component CSS Start */
+.vw-ad {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.vw-logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 40px;
+}
+.vw-text {
+  color: #0D0A19;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+}
+.vw-price {
+  color: #9A9EA7;
+  font-size: 14px;
+  line-height: 21px;
+}
+/* Best Selling Component CSS End */
