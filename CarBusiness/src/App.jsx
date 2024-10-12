@@ -9,10 +9,11 @@ import { Trending } from "./components/Trending.jsx";
 import { BestSelling } from "./components/BestSelling.jsx";
 import { Reviews } from "./components/Reviews.jsx";
 import { FindVehicles } from "./components/FindVehicles.jsx";
+import { Footer } from "./components/Footer.jsx";
 
 function App() {
   return (
-    <>
+    <main>
       <Navbar />
       <Hero />
       <FilterAndSearch />
@@ -20,7 +21,8 @@ function App() {
       <BestSelling />
       <Reviews />
       <FindVehicles />
-    </>
+      <Footer />
+    </main>
   );
 }
 

@@ -156,8 +156,8 @@ ul li {
   padding-bottom: 60px;
 }
 
-.trending-card-title{
-  color: #0D0A19;
+.trending-card-title {
+  color: #0d0a19;
   font-weight: 700;
   font-size: 16px;
   line-height: 24px;
@@ -165,7 +165,7 @@ ul li {
   margin-bottom: 2px !important;
 }
 
-.trending-card-text-up{
+.trending-card-text-up {
   color: #9a9ea7;
   font-weight: 400;
   font-size: 14px;
@@ -185,18 +185,18 @@ ul li {
   background-color: #dfd9ff !important;
   border: none !important;
   border-radius: 8px;
-  color: #7963F0 !important;
+  color: #7963f0 !important;
   font-weight: 700;
   font-size: 12px;
   line-height: 18px;
   padding: 9px 17px;
 }
 
-.trending-bestseller-button{
-  background-color: #F5F6F7 !important;
+.trending-bestseller-button {
+  background-color: #f5f6f7 !important;
   border: none !important;
   border-radius: 8px;
-  color: #9A9EA7 !important;
+  color: #9a9ea7 !important;
   font-weight: 700;
   font-size: 12px;
   line-height: 18px;
@@ -216,14 +216,20 @@ ul li {
   margin-right: 40px;
 }
 .vw-text {
-  color: #0D0A19;
+  color: #0d0a19;
   font-size: 18px;
   font-weight: 700;
   line-height: 27px;
 }
 .vw-price {
-  color: #9A9EA7;
+  color: #9a9ea7;
   font-size: 14px;
   line-height: 21px;
 }
 /* Best Selling Component CSS End */
+
+/* Footer Component CSS Start */
+footer p {
+  margin: 0;
+}
+/* Footer Component CSS End */
